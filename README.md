@@ -10,7 +10,8 @@ I am Rashmi, an incoming Software Engineering graduate student at Carnegie Mello
 
 Skills level:
 - GraphQL - High
-- Javascript - High, I have worked on React, Node and Angular in the past.
+- Javascript - High, I have worked on React, Node, Angular and Vue in the past.
 - Python - High
-- ELK - I dont have a lot of experience with Logstash but I have worked a lot on Elasticsearch and Kibana
-- SQL - Medium, I might have to read through some articles to write complex queries but I am willing to learn. 
+- SQL - High 
+- Django - Medium - I dont have a lot of experience with Django but I am willing to learn
+- ELK - I don't have a lot of experience with Logstash but I have worked a lot on Elasticsearch and Kibana
