@@ -18,4 +18,4 @@ Things done:
 ![After merge](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/assets/after_merge.png)
 
 #### Adding multiple enrollments
-![Adding enrollments](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/assets/multienrollments.png)
+![Adding enrollments](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/assets/multi_enrollments.png)
