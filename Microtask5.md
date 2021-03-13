@@ -10,7 +10,7 @@ I used both hatstall and the sortinghat UI to do these in order to get a feel of
 
 #### Merging two identities
 ![During merge 1](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/assets/sh_during_merge.png)
-![During merge 2](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/assets/sh_during_merge1.png)
+![During merge 2](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/assets/sh_during_merge1.png.png)
 
 #### Post merge - a profile with multiple identities
 ![Post merge](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/assets/sh_after_merge.png)
