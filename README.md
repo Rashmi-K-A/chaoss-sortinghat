@@ -6,7 +6,7 @@ Microtasks done:
 -  Microtask 0: Setting up PyCharm
 -  Microtask 1: Setting up dev environment
 - [Microtask 5](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask5.md)
-
+- [Microtask 6](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask6.md)
 - [Microtask 10](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask10.md)
 - [Microtask 3](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask3.md)
 
