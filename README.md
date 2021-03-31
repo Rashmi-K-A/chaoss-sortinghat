@@ -3,7 +3,7 @@
 This repo is to complete microtasks for the GSoC project [Extend data model and user interface to capture better information about contributors](https://github.com/chaoss/grimoirelab/issues/415)
 
 Microtasks done:
--  Microtask 0: Setting up PyCharm
+- [Microtask 0](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask0.md)
 -  Microtask 1: Setting up dev environment
 -  Microtask 4: Setting up development environment of sortinghat (muggle branch)
 - [Microtask 5](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask5.md)
