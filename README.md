@@ -5,7 +5,7 @@ This repo is to complete microtasks for the GSoC project [Extend data model and 
 Microtasks done:
 - [Microtask 0](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask0.md)
 -  Microtask 1: Setting up dev environment
--  Microtask 4: Setting up development environment of sortinghat (muggle branch)
+- [Microtask 4](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask4.md)
 - [Microtask 5](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask5.md)
 - [Microtask 6](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask6.md)
 - [Microtask 10](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask10.md)
