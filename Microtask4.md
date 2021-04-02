@@ -2,7 +2,7 @@ Microtask 4:
 Set up the developer environment of SortingHat (muggle branch).
 
 #### Steps to setup:
-1. Forked the [Sorting Hat repository.]() and set up the repo in my local.
+1. Forked the [Sorting Hat repository.](https://github.com/chaoss/grimoirelab-sortinghat) and set up the repo in my local.
 2. Pulled the muggle branch from the upstream repository.
 3. Created a virtual environment and installed all the libraries in requirements.txt.
 4. To run the development server, I had to run the `migrate` and `runserver` commands.
