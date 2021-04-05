@@ -4,7 +4,7 @@ Create a sample profile with different identities and enrollments using the Sort
 #### Screenshot of created profile:
 ![John Doe](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/assets/multisourceprofile.png)
 
-#### Additional work
+## Additional work
 
 I used both hatstall and the sortinghat UI to do these in order to get a feel of both the systems.
 
