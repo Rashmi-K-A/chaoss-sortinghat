@@ -13,6 +13,7 @@ Microtasks done:
 - [Microtask 5](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask5.md)
 - [Microtask 6](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask6.md)
 - [Microtask 7](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask7.md)
+- [Microtask 8](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask8.md)
 - [Microtask 10](https://github.com/Rashmi-K-A/chaoss-sortinghat/blob/master/Microtask10.md)
 
 #### About me
